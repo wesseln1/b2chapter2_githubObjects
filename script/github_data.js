@@ -16,7 +16,7 @@ const githubData = [
         "url": "https://api.github.com/repos/nashville-software-school/client-side-mastery"
       },
       "payload": {
-        "push_id": 2755309252,
+        "push_id" : 2755309252,
         "size": 1,
         "distinct_size": 1,
         "ref": "refs/heads/treehouse-profile",
